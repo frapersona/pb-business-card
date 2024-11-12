@@ -1,0 +1,68 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: EB Garamond, Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid grey;
+    padding: 9px 20px;
+    color: #25211d;
+    background-image: url(./images/handmadepaper-FXX.png);
+    
+    
+}
+
+.up-card {
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+    
+    }
+
+
+
+.sub-company {
+    display: flex;
+    justify-content: end;
+    text-align: center;
+    margin: -19px -1px 0 0 ;
+    font-size: 9.8px;
+}
+
+.center-card {
+    text-align: center;
+    margin: 42px auto;
+}
+
+.name {
+    margin: 0 0 -11px 0;
+    font-size: 21px;
+}
+
+.role {
+    font-size: 18px;
+}
+
+.bottom-card {
+    font-size: 11.4px;
+    text-align: center;
+}
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
